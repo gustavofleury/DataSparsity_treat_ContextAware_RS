@@ -70,7 +70,3 @@ DataWig
 
 Factorial Machines
 ![DataWig](Fig-Results_FM_CUMULATIVE.jpg)
-
-## Classification RESULTS:
-
-![ClaResults](ClaResults.png)
