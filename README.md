@@ -5,9 +5,9 @@ Present the python codes for the research:
 
 "Data Sparsity treatment for Context-Aware Recommender Systems"
 
-Authors: Gustavo FLEURY 
-Oriented by: Elsa NEGRE
-Dauphine Université Paris
+Authors: Gustavo FLEURY <br/>
+Oriented by: Elsa NEGRE <br/>
+Dauphine Université Paris <br/>
 September 2020
 
 All Jupyter Notebooks are tested in Google Colab environment.
